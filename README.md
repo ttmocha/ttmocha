@@ -4,7 +4,7 @@
 <div align ="center">
   <p align="center">
    <samp>
-     My name is Ty and i am currently undertaking my bachelors in Information Technology<br>💻 Major: Computer Science<br>🔌Minor: Network Security
+     My name is Ty and I am currently undertaking my bachelors in Information Technology<br>💻 Major: Computer Science<br>🔌Minor: Network Security
      </samp>
 
 ### 🖳Languages-Frameworks-Tools
