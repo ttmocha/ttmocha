@@ -1,4 +1,4 @@
-<h1  align="center">
+<h1 align="center">
   <img align="center" src="https://readme-typing-svg.demolab.com/?font=Aharoni.+Code&weight=600&size=35&duration=3800&pause=1000&center=true&color=d8fff6&width=400&height=70&lines=+Hello!+👋+;Welcome+To+My+Profile" />
 </h1>
 <div align ="center">
